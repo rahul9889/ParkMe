@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (5.6.4)
+  - DropDown (2.3.13)
+  - ImageSlideshow/Core (1.9.2)
+  - ImageSlideshow/SDWebImage (1.9.2):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - IQKeyboardManagerSwift (6.5.11)
+  - SDWebImage (5.15.2):
+    - SDWebImage/Core (= 5.15.2)
+  - SDWebImage/Core (5.15.2)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - ImageSlideshow/SDWebImage
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  ImageSlideshow: be305b54eaf2b2cfc7a7141c7c734605d44dc07d
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  SDWebImage: 8ab87d4b3e5cc4927bd47f78db6ceb0b94442577
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 4359975307fd6228124f50ae3ca83f010b08b8b0
+
+COCOAPODS: 1.11.3
